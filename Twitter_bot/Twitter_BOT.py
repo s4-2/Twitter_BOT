@@ -7,10 +7,10 @@ from config import QUERY, FOLLOW, LIKE, SLEEP_TIME
 #auth.set_access_token(access_token_key, access_token_secret)
 #api=tweepy.API(auth)
 twitter_keys = {
-    'consumer_key':'UjnTabcyaFg5jgmr82QYlCdba',
-    'consumer_secret':'oM92b48qH5EiSPCl35PfiuAtpzlPrDWpNwguGitz2u1xzNpV7s',
-    'access_token_key':'1314298938644549633-JEdgNNtNVyBz9Tj7Wn3fA7De6G1N5v',
-    'access_token_secret':'ULNlAuWyaJRCaEKbuPAn78JhbfN45Ly5a1gxzaLQrr3PY'
+    'consumer_key':'xxxxxxxxxxxxxx',
+    'consumer_secret':'xxxxxxxxxxxxxx',
+    'access_token_key':'xxxxxxxxxxxxxx',
+    'access_token_secret':'xxxxxxxxxxxx'
 }
 
 auth=tweepy.OAuthHandler(twitter_keys['consumer_key'],twitter_keys['consumer_secret'])
