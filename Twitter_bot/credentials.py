@@ -1,5 +1,5 @@
-consumer_key:"UjnTabcyaFg5jgmr82QYlCdba"
-consumer_secret:"oM92b48qH5EiSPCl35PfiuAtpzlPrDWpNwguGitz2u1xzNpV7s"
-access_token_key:"1314298938644549633-JEdgNNtNVyBz9Tj7Wn3fA7De6G1N5v"
-access_token_secret:"ULNlAuWyaJRCaEKbuPAn78JhbfN45Ly5a1gxzaLQrr3PY"
+consumer_key:"xxxxxxxxxx"
+consumer_secret:"xxxxxxxxxx"
+access_token_key:"xxxxxxxxxxxx"
+access_token_secret:"xxxxxxxxxxxxxx"
 
